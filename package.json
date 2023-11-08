@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript_historia-y-versiones",
+  "version": "1.0.0",
+  "description": "Ejercicios de Curso de ECMAScript: Historia y Versiones de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okipe/ecmascript_historia-y-versiones.git"
+  },
+  "keywords": [
+    "javascript",
+    "curso"
+  ],
+  "author": "Oscar Román <oscarroman.pe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okipe/ecmascript_historia-y-versiones/issues"
+  },
+  "homepage": "https://github.com/okipe/ecmascript_historia-y-versiones#readme"
+}
